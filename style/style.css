@@ -194,7 +194,9 @@ background-color: aqua;
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,94,247,1) 17.8%, rgba(2,245,255,1) 100.2% );    height: 500px;
     margin-top: 40px;
     width: 24%;
-    padding: 20px 30px 140px;
+    padding: 10px 10px  60px ;
+    position: relative;
+    
 }
 .sect2-content{
     display: flex;
@@ -210,6 +212,7 @@ background-color: aqua;
     font-weight: 300;
     line-height: 15px;
     margin-top: -30px;
+    margin-bottom: 20px;
 }
 
 .anime-title1{
@@ -268,4 +271,7 @@ background-color: aqua;
 .writer{
     font-weight: 600;
     font-size: 17px ;
+}
+.new-link{
+    display: block;
 }
